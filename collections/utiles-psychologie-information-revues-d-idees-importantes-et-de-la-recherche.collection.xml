@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="fr">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="fr" authors="Mark Pettinelli">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11160</md:content-id>
-    <md:title>Utiles Psychologie Information (Revues D'idées Importantes et de la Recherche)</md:title>
+    <md:title>Utiles Psychologie Information (Revues D'id&#xE9;es Importantes et de la Recherche)</md:title>
     <md:language>fr</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>f0ad87cb-b9ad-4805-91cf-c4170cba4318</md:uuid>
-<md:slug>utiles-psychologie-information-revues-d-idees-importantes-et-de-la-recherche</md:slug>
-</metadata>
+    <md:slug>utiles-psychologie-information-revues-d-idees-importantes-et-de-la-recherche</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m33301"/>
     <col:module document="m33302"/>
